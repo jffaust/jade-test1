@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e7620b7e75de2aee","x":-340,"y":-343,"width":420,"height":363,"type":"text","text":"# A small note\n\n**Bold text**\n\n*italic text*"},
+		{"id":"47621d0008d5b242","type":"text","text":"# A copied small note\n\n**Bold text**\n\n*italic text*","x":400,"y":-161,"width":420,"height":363}
+	],
+	"edges":[
+		{"id":"780bd393f2fa4bcf","fromNode":"e7620b7e75de2aee","fromSide":"right","toNode":"47621d0008d5b242","toSide":"left"}
+	]
+}
