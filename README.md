@@ -1,5 +1,5 @@
 # Jade
-(trigger dep)
+
 Jade is a lightweight, Svelte-based static site generator. The project uses ShadCN for styling due to its simplicity, customisability, and ease of use. 
 
 The SSG can be used for any markdown-based files, including Obsidian. Unlike other SSG's, you do not have to clone Jade and run it locally. A simple GitHub Action workflow is provided to deploy the site to any hosting provider (Vercel, Netlify, GitHub Pages, etc.) with zero configuration required.
