@@ -1,7 +1,9 @@
 {
 	"nodes":[
-		{"id":"e7620b7e75de2aee","x":-340,"y":-343,"width":420,"height":363,"type":"text","text":"# A small note\n\n**Bold text**\n\n*italic text*"},
-		{"id":"47621d0008d5b242","type":"text","text":"# A copied small note\n\n**Bold text**\n\n*italic text*","x":400,"y":-161,"width":420,"height":363}
+		{"id":"77bff591a4f424af","x":60,"y":-840,"width":680,"height":455,"type":"file","file":"Pasted image 20260227103832.png"},
+		{"id":"e7620b7e75de2aee","type":"text","text":"# A small note\n\n**Bold text**\n\n*italic text*","x":-150,"y":-320,"width":420,"height":363},
+		{"id":"47621d0008d5b242","type":"text","text":"# A copied small note\n\n**Bold text**\n\n*italic text*","x":380,"y":-320,"width":420,"height":363},
+		{"id":"0d530c0296136c9f","x":60,"y":160,"width":620,"height":413,"type":"file","file":"Pasted image 20260227103907.png"}
 	],
 	"edges":[
 		{"id":"780bd393f2fa4bcf","fromNode":"e7620b7e75de2aee","fromSide":"right","toNode":"47621d0008d5b242","toSide":"left"}

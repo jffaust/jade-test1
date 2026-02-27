@@ -11,10 +11,17 @@
             "id": "fd39c27f75525f21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "posts/Test1.canvas",
+                "viewState": {
+                  "x": 950,
+                  "y": 179.5,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Test1"
             }
           }
         ]
@@ -90,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/Test1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Test1"
             }
           },
           {
@@ -108,11 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/Test1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Test1"
             }
           },
           {
@@ -150,12 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "posts/Test1.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Test1"
             }
           }
         ]
@@ -178,13 +188,15 @@
   },
   "active": "fd39c27f75525f21",
   "lastOpenFiles": [
+    "Pasted image 20260227103907.png",
+    "Pasted image 20260227103832.png",
+    "posts/Blog Post.md",
     "posts/projects/Project 1.md",
     "posts/projects/Blog Post.md",
     "posts/projects",
     "Test1.canvas",
     "Blog Post.md",
     "posts/Test1.canvas",
-    "posts/Blog Post.md",
     "posts"
   ]
 }
